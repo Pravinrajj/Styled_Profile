@@ -83,7 +83,7 @@ Enhance interactivity with simple hover effects like border changes or backgroun
 ```
 
 ## CSS Code:
-```
+```css
 body{
     background-color:lightgray;
     font-family: Georgia,'Times New Roman', serif, Arial, Helvetica;
