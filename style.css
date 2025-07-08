@@ -1,0 +1,35 @@
+body{
+    background-color:lightgray;
+    font-family: Georgia,'Times New Roman', serif, Arial, Helvetica;
+}
+h1{
+    text-align: center;
+    color:#1342dc;
+}
+h2{
+    text-align: center;
+    color:#309ce4;
+}
+h3{
+    text-align: center;
+    color: #2646afe9;
+}
+img{
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+}
+p{
+    padding: 20px;
+    background-color: rgb(224, 222, 222);
+    border: 2px solid rgb(233, 216, 216);
+    border-radius:5%;
+}
+.int{
+    display: inline-block;
+    margin: 0 auto 19% 19%;
+}
+.ski{
+    display: inline-block;
+    margin:0 auto 19% 19%;
+}
